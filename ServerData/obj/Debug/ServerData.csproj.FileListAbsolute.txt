@@ -1,0 +1,11 @@
+D:\myDotNetLearning\ServerStatusAPI\ServerData\bin\Debug\ServerData.dll.config
+D:\myDotNetLearning\ServerStatusAPI\ServerData\bin\Debug\ServerData.dll
+D:\myDotNetLearning\ServerStatusAPI\ServerData\bin\Debug\ServerData.pdb
+D:\myDotNetLearning\ServerStatusAPI\ServerData\bin\Debug\EntityFramework.dll
+D:\myDotNetLearning\ServerStatusAPI\ServerData\bin\Debug\EntityFramework.SqlServer.dll
+D:\myDotNetLearning\ServerStatusAPI\ServerData\bin\Debug\EntityFramework.xml
+D:\myDotNetLearning\ServerStatusAPI\ServerData\bin\Debug\EntityFramework.SqlServer.xml
+D:\myDotNetLearning\ServerStatusAPI\ServerData\obj\Debug\ServerData.csprojAssemblyReference.cache
+D:\myDotNetLearning\ServerStatusAPI\ServerData\obj\Debug\ServerData.csproj.CopyComplete
+D:\myDotNetLearning\ServerStatusAPI\ServerData\obj\Debug\ServerData.dll
+D:\myDotNetLearning\ServerStatusAPI\ServerData\obj\Debug\ServerData.pdb
